@@ -1,0 +1,25 @@
+{
+    "name": "zyj/yii2-extensions",
+    "description": "Yii2  extension",
+    "keywords": ["yii2", "extension", "plugin"],
+    "homepage": "https://github.com/zhouyajun/yii2-extensions",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "zyj",
+            "email": "617242499@qq.com",
+            "homepage": "https://github.com/zhouyajun",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "minimum-stability":"dev",
+    "autoload": {
+        "psr-4": {
+            "zyj\\ext\\": ""
+        }
+    }
+}
