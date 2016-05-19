@@ -1,5 +1,5 @@
 # yii2-extensions
-个人yii2扩展
+##个人yii2扩展
 [![Latest Stable Version](https://poser.pugx.org/zyj/yii2-extensions/v/stable)](https://packagist.org/packages/zyj/yii2-extensions) [![Total Downloads](https://poser.pugx.org/zyj/yii2-extensions/downloads)](https://packagist.org/packages/zyj/yii2-extensions) [![Latest Unstable Version](https://poser.pugx.org/zyj/yii2-extensions/v/unstable)](https://packagist.org/packages/zyj/yii2-extensions) [![License](https://poser.pugx.org/zyj/yii2-extensions/license)](https://packagist.org/packages/zyj/yii2-extensions)
 # 短信配置
 在组件中配置：
